@@ -2,15 +2,15 @@
 
 ## Overview
 A multi-agent chatbot for real estate, featuring:
-- **Agent 1**: Issue Detection (image + text) using Clarifai Community API and DistilGPT2.
-- **Agent 2**: Tenancy FAQ (text-based) using DistilGPT2.
+- **Agent 1**: Issue Detection (image + text) using Clarifai Community API and Ollama.
+- **Agent 2**: Tenancy FAQ (text-based) using Ollama.
 - **Agent Router**: Routes queries based on image presence and text keywords.
 
 ## Tools Used
 - Streamlit: Web UI
 - LangChain: Agent logic
 - Clarifai Community API: Image analysis (free tier)
-- HuggingFace Transformers (DistilGPT2): Text generation
+- HuggingFace Transformers (Ollama): Text generation
 - Deployment: Streamlit Cloud
 
 ## Agent Switching Logic
@@ -20,7 +20,7 @@ A multi-agent chatbot for real estate, featuring:
 
 ## Image-Based Issue Detection
 - Clarifai API detects labels (e.g., "mold", "crack") using a Personal Access Token (PAT).
-- DistilGPT2 generates troubleshooting suggestions.
+- Ollama generates troubleshooting suggestions.
 
 ## Use Case Examples
 1. **Issue Detection**:
@@ -29,10 +29,6 @@ A multi-agent chatbot for real estate, featuring:
 2. **Tenancy FAQ**:
    - User: "Can my landlord evict me without notice?"
    - Response: "Landlords must give notice. Provide your city for specifics."
-
-## Deployment
-- Deployed at: [Insert Streamlit Cloud URL, e.g., https://your-app.streamlit.app]
-- Video Demo: [Insert Google Drive Link, e.g., https://drive.google.com/file/d/your-video-id/view]
 
 ## Steps to View
 1. Visit the deployed URL.
