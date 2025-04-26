@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "realestate-vision-agent",
+  "private_key_id": "70311ee26d0324981cb7fafb19bc065a592e85ce",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDqfoegn7PKwklz\nhKZVPETVa6028bD3kK67f5iE5x11KgmhVZAoyo3s2w/ed42vxklxW7ap7ZTM76hz\nzR0HIipmPGD657F5cthoE8uCw+ie804IWLDfs01JvPVFMELjHXMKgtmvGC5t/9qK\nZITrBWtr1h7RJ2wkNblTOQEn6JX7bKCvwtkUWaVe5bk71+/fvc/mt/HvnNVCpiE9\nE72F0WdAYpc4ZKnwGATKA5BuHE2dS8mj/44lRk125ibnvGyGqV/MGAil/FHaGteJ\nTbEbpanWc1ibgkleSi8OdFSnRHuL7a8OPoB7M3qshAk/iOwU1hiJ+z8G85lAxJdU\n3wl14wCnAgMBAAECggEAKTj/HMSWdcF76hvapcdHjoE0XSFV6996aCnBJTP/4LX4\nJW2GPzWEh6vm+UPpG4pvJMdrsCm8694BrgHT5YojC//3SIRslZ4T3xADycQo47B/\n+kWlKl456wmV0IjwaT6nF6TzIa3Nk7bTs1qCZ1J3lOh6WGhmwWLUZoXx5xMjMqSK\n3nxcKaRGm7xCkF3SNtDycHZRfINDKQv5/ILjgSEJgSnvzM33y8vxO7FZQVV3/P/9\n6LXQ23XGM7f8p2sfqknEqI+j8/REn0lGpAsBR9pYJvQ11EwqsAQ1oauLbs22OWxv\nDqSk/xL2KPLdQMh7uPcGExyR37VTTCoy9KA6oPHXqQKBgQD5dOmmxIncYfoelmy7\nvF2H3+oDn43Cj5wXWAD0z+Wfcef0xCrWRQWwFrf8t/ehLZs2wu4xpg+ydVUZI0E5\nCFVXtWPJBA8jaA5YzKzt2DH73n/p5zoN4TrnBQCVDrb4Ap59HPvxMWrLWu7Xm/o2\nwqLhUGVvL/o+8IXn5KwXnUDxpQKBgQDwpSUs7zXWXUU77eo/FCEgJ37wXFovVZ8/\nR4MVxSygoLIH1CfyyCntmze8RUUyagvVorOZ7g5qnyBjfADrx4jUBOvVErCHiVwz\nbNfAM0L4+kam+hkxPargLpQN79plOZF9YOxxHotOo+LfHt0cyoGhWJclOeT0VWlB\nt+ZYgAe/WwKBgQD5TPYVTGXacbBd0Udpd56hpA1jAZnSz2LXkYOjJgH9jwCZhVKq\nQOCmUo4dal14HvP3jmguBh+54bjiHnGYZdOkjArlYcEfSWbNJ//K0z1g0cRUJlnG\ndUlAh6dFUCdbRILP1p+TNCfeg0ofACrXfzz4oDg/Hluhew7X6ZhzIR0+YQKBgAEI\nJD2qFOgDZF2aaou0sWOq569uJfDYBCPIUbaRLtzNc5X3AejXlN5w8O88uMw7iitz\nVCPP0n4AiqoCiRp5s4t9Lemu99TM8PlDeTVYwuvAXvcuUVdVtVrauEXLBnuyoH4S\nIVFm2SAQMdPVFQufjqi7cYJ2WhX2G8ptWG5+tgnLAoGBAMmfivF7hJLvOtGJmb7q\nZZSXW2wOclmHGzi3JzVnNRxsdhaLibv/Cl1eIFDWtvgHP60bdtC1OtGH90yXkF6p\nda7bPeoC8D9DEVrgIIMKL0op0TUxjYNpan2v9wi50VU31A3pE9P6ds0WPMiQcHSG\njNhlSL1Wbl0txWFYaDI6eRNz\n-----END PRIVATE KEY-----\n",
+  "client_email": "cloud-vision-api-user@realestate-vision-agent.iam.gserviceaccount.com",
+  "client_id": "116446552006879451632",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cloud-vision-api-user%40realestate-vision-agent.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
